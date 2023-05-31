@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.logo {
+    height: 50px;
+    width: 50px;
+    margin-right: 10px;
+}
+
+.school-name {
+    vertical-align: middle;
+}
+
+.carousel-inner img {
+    height: 400px;
+    object-fit: cover;
+}
+
+.about-content {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+}
+
+.news-preview {
+    margin-top: 20px;
+}
+
+.announcements {
+    margin-top: 20px;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+    background-color: rgba(0, 0, 0, 0.5);
+}
